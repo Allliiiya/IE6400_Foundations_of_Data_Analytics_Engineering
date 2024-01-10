@@ -3,6 +3,6 @@
 ### Here is the coursework of my Master's class
 
 Three parts of the page:
-1. Assignment: the personal assignment final draft
+1. Assignment: the personal assignment final eidtion
 2. Quiz: Lecture quiz and answer
 3. Project: group projects
