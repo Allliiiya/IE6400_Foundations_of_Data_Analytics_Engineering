@@ -6,3 +6,4 @@ Three parts of the page:
 1. Assignment: the personal assignment final eidtion
 2. Quiz: Lecture quiz and answer
 3. Project: group projects
+4. Course Material: Handouts
