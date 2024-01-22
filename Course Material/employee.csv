@@ -1,0 +1,12 @@
+First Name,Gender,Salary,Bonus %,Senior Management,Team
+Douglas,Male,97308.0,6.945,TRUE,Marketing
+Thomas,Male,61933.0,,TRUE,
+Jerry,Male,,9.340,TRUE,Finance
+Dennis,n.a.,115163.0,10.125,FALSE,Legal
+,Female,0.0,11.598,,Finance
+Angela,,,18.523,TRUE,Engineering
+Shawn,Male,111737.0,6.414,FALSE,na
+Rachel,Female,142032.0,12.599,FALSE,Business Development
+Linda,Female,57427.0,9.557,TRUE,Client Services
+Stephanie,Female,36844.0,5.574,TRUE,Business Development
+,,,,,
